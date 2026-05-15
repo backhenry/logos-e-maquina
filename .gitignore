@@ -1,0 +1,27 @@
+# Dependências Node (VitePress)
+node_modules/
+.pnpm-debug.log*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build VitePress
+docs/.vitepress/dist/
+docs/.vitepress/cache/
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporários
+*.tmp
+*.bak
+~*
+
+# Arquivos locais
+.env
+.env.local

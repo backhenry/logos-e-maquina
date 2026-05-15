@@ -1,0 +1,16 @@
+{
+  "name": "logos-e-maquina",
+  "version": "1.0.0",
+  "description": "O Logos e a Máquina - livro sobre engenharia de prompt e filosofia da linguagem",
+  "private": true,
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0"
+  },
+  "author": "Henrique Martins",
+  "license": "CC-BY-SA-4.0"
+}
