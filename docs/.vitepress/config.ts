@@ -12,12 +12,13 @@ export default defineConfig({
   base: '/logos-e-maquina/',
 
   head: [
-    ['link', { rel: 'icon', href: '/favicon.ico' }],
-    ['meta', { name: 'author', content: 'Henrique Martins' }],
-    ['meta', { property: 'og:title', content: 'O Logos e a Máquina' }],
-    ['meta', { property: 'og:description', content: 'Livro gratuito sobre engenharia de prompt e filosofia da linguagem.' }],
-    ['meta', { property: 'og:type', content: 'book' }],
-  ],
+  ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],
+  ['link', { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+  ['meta', { name: 'author', content: 'Henrique Martins' }],
+  ['meta', { property: 'og:title', content: 'O Logos e a Máquina' }],
+  ['meta', { property: 'og:description', content: 'Livro gratuito sobre engenharia de prompt e filosofia da linguagem.' }],
+  ['meta', { property: 'og:type', content: 'book' }],
+],
 
   themeConfig: {
     logo: '/logo.svg',
