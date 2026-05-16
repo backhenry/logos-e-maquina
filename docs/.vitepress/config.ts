@@ -25,9 +25,9 @@ export default defineConfig({
 
     nav: [
       { text: 'Ler', link: '/parte-1/01-grito-primal' },
-      { text: 'Prompts', link: 'https://github.com/SEU-USUARIO/logos-e-maquina/tree/main/prompts' },
-      { text: 'PDF', link: 'https://github.com/SEU-USUARIO/logos-e-maquina/tree/main/release' },
-      { text: 'GitHub', link: 'https://github.com/SEU-USUARIO/logos-e-maquina' },
+      { text: 'Prompts', link: 'https://github.com/backhenry/logos-e-maquina/tree/main/prompts' },
+      { text: 'PDF', link: 'https://github.com/backhenry/logos-e-maquina/tree/main/release' },
+      { text: 'GitHub', link: 'https://github.com/backhenry/logos-e-maquina' },
     ],
 
     sidebar: [
@@ -107,7 +107,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/SEU-USUARIO/logos-e-maquina' },
+      { icon: 'github', link: 'https://github.com/backhenry/logos-e-maquina' },
       { icon: 'linkedin', link: 'https://www.linkedin.com/in/rick-b-martins/' },
     ],
 
@@ -138,7 +138,7 @@ export default defineConfig({
     },
 
     editLink: {
-      pattern: 'https://github.com/SEU-USUARIO/logos-e-maquina/edit/main/docs/:path',
+      pattern: 'https://github.com/backhenry/logos-e-maquina/edit/main/docs/:path',
       text: 'Sugerir correção neste capítulo'
     },
 

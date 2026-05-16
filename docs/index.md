@@ -10,7 +10,7 @@ hero:
       link: /parte-1/01-grito-primal
     - theme: alt
       text: Ver no GitHub
-      link: https://github.com/SEU-USUARIO/logos-e-maquina
+      link: https://github.com/backhenry/logos-e-maquina
 
 features:
   - icon: 🧠
@@ -45,5 +45,5 @@ Quem entende isso escreve prompts melhores. Quem não entende pisa nos mesmos bu
 
 - **Quer ler na ordem?** Vá para o [Capítulo 1](/parte-1/01-grito-primal).
 - **Quer só os frameworks práticos?** Pule direto para a [Parte IV](/parte-4/11-quatro-pilares).
-- **Quer prompts prontos?** Veja a [pasta /prompts](https://github.com/SEU-USUARIO/logos-e-maquina/tree/main/prompts) no repositório.
-- **Quer baixar o PDF?** Disponível na [pasta /release](https://github.com/SEU-USUARIO/logos-e-maquina/tree/main/release).
+- **Quer prompts prontos?** Veja a [pasta /prompts](https://github.com/backhenry/logos-e-maquina/tree/main/prompts) no repositório.
+- **Quer baixar o PDF?** Disponível na [pasta /release](https://github.com/backhenry/logos-e-maquina/tree/main/release).
