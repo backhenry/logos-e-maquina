@@ -9,7 +9,7 @@ export default defineConfig({
 
   // Se você usar GitHub Pages no formato usuario.github.io/logos-e-maquina,
   // troque '/' por '/logos-e-maquina/'
-  base: '/',
+  base: '/logos-e-maquina/',
 
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
