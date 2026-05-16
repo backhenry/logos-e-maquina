@@ -11,13 +11,19 @@ export default defineConfig({
   // troque '/' por '/logos-e-maquina/'
   base: '/logos-e-maquina/',
 
-  head: [
+head: [
   ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],
   ['link', { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
   ['meta', { name: 'author', content: 'Henrique Martins' }],
   ['meta', { property: 'og:title', content: 'O Logos e a Máquina' }],
   ['meta', { property: 'og:description', content: 'Livro gratuito sobre engenharia de prompt e filosofia da linguagem.' }],
   ['meta', { property: 'og:type', content: 'book' }],
+  ['meta', { property: 'og:image', content: 'https://backhenry.github.io/logos-e-maquina/og-image.png' }],
+  ['meta', { property: 'og:image:width', content: '1200' }],
+  ['meta', { property: 'og:image:height', content: '630' }],
+  ['meta', { property: 'og:url', content: 'https://backhenry.github.io/logos-e-maquina/' }],
+  ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
+  ['meta', { name: 'twitter:image', content: 'https://backhenry.github.io/logos-e-maquina/og-image.png' }],
 ],
 
   themeConfig: {
